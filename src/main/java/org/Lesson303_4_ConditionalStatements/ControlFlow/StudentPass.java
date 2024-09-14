@@ -1,7 +1,7 @@
-
+package org.Lesson303_4_ConditionalStatements.ControlFlow;
 
 public class StudentPass {
-    public static void main(String s[]){
+    public static void main(String[] s){
     int marks = 80;
     if (marks > 70) {
         System.out.println("Distinction");
